@@ -1,0 +1,19 @@
+body{
+	background-repeat: no-repeat;
+	
+    font-family: Lato ;
+
+}
+h3{
+	text-align: center;
+}
+#welcome
+{
+	
+	padding-left: 30%;
+	padding-top: 5%;
+}
+#button_align
+{
+	padding-left: 40%;
+}
